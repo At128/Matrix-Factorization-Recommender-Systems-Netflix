@@ -6,4 +6,4 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Links to original paper published by IEEE Computer Society : [[1]](https://ieeexplore.ieee.org/document/5197422), [[2]](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf) 
 
-Link to MovieLens Dataset Used : [[Click]](https://grouplens.org/datasets/movielens/100k/)
+MovieLens Dataset Used : [[Link]](https://grouplens.org/datasets/movielens/100k/)
